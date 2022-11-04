@@ -13,3 +13,5 @@
     <img height="20" src="https://img.shields.io/github/followers/Hayate12345?label=follow&logo=github&style=flat" />
   </a>
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
