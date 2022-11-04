@@ -15,3 +15,5 @@
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Hayate12345&theme=onedark)](https://github.com/Hayate12345/github-profile-trophy)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hayate12345)](https://github.com/Hayate12345/github-readme-stats)
