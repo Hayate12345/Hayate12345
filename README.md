@@ -9,9 +9,6 @@
   <a href="http://twitter.com/hayate/kic">
     <img height="20" src="https://img.shields.io/twitter/follow/hayate_kic?label=Twitter&logo=twitter&style=flat" />
   </a>
-  <a href="https://github.com/Hayate12345">
-    <img height="20" src="https://img.shields.io/github/followers/Hayate12345?label=follow&logo=github&style=flat" />
-  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
