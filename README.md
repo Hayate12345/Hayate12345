@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Hayate!</h1>
-<h3 align="center">best teaching materials！！！！！！！！！！！！！！！！</h3>
 
 <p align="left">
 <h3>Read Me:</h3>
