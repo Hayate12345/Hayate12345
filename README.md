@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Hayate!</h1>
-<h3 align="center">best teaching materials！！！！！！！！！！！！！！！！</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hayate12345&label=Profile%20views&color=0e75b6&style=flat" alt="hayate12345" /> </p>
 
