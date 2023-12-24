@@ -1,6 +1,9 @@
-<h1 align="center">Hi 👋, I'm Hayate!</h1>
+<h1 align="center">Hi👋  I'm Hayate!</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hayate12345&label=Profile%20views&color=0e75b6&style=flat" alt="hayate12345" /> </p>
+<p align="left">
+  http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={Hayate12345}&theme={github_dark}
+  <img src="https://komarev.com/ghpvc/?username=hayate12345&label=Profile%20views&color=0e75b6&style=flat" alt="hayate12345" /> 
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hayate12345" alt="hayate12345" /></a> </p>
 
