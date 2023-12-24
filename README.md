@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://github.com/Hayate12345/Hayate12345/blob/main/avatar.png" align="center" style="width: 200px; height: 200px; border-radius: 50%;" />
-</div>  
-  
-
 ## <div align="center">Hi 👋　I'm Hayate!</div>  
   
 
